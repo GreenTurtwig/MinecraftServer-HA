@@ -1,0 +1,10 @@
+{
+  "domain": "minecraft",
+  "name": "MinecraftServer-HA",
+  "documentation": "https://github.com/GreenTurtwig/MinecraftServer-HA",
+  "requirements": [
+      "mcstatus"
+      ],
+  "dependencies": [],
+  "codeowners": []
+}
